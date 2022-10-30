@@ -5,5 +5,5 @@ const icon = document.getElementById("icon");
 shareButton.addEventListener("click", () => {
   tooltips.classList.toggle("show");
   shareButton.classList.toggle("color");
-  icon.classList.toggle("color")
+  icon.classList.toggle("color");
 });
